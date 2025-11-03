@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://github.com/Seang02/Assignment-4/blob/main/Hotels.xsd">
+
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Marriott Downtown Phoenix</Name>
+		<Phone>602-777-1200</Phone>
+		<Address NearestAirport="Sky Harbor International">
+			<Number>414</Number>
+			<Street>N 5th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>La Quinta</Name>
+		<Phone>480-844-8747</Phone>
+		<Address NearestAirport="Phoenix-Mesa Gateway">
+			<Number>902</Number>
+			<Street>W. Grove Ave</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>Embassy Suites by Hilton Scottsdale Resort</Name>
+		<Phone>480-949-1414</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor">
+			<Number>5001</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85250</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>SpringHill Suites by Marriott Goodyear</Name>
+		<Phone>623-535-3136</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor">
+			<Number>1370</Number>
+			<Street>N Bullard Ave</Street>
+			<City>Goodyear</City>
+			<State>AZ</State>
+			<Zip>85395</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Embassy Suites by Hilton Glendale</Name>
+		<Phone>623-555-2020</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor">
+			<Number>511</Number>
+			<Street>W Katella Ave</Street>
+			<City>Glendale</City>
+			<State>AZ</State>
+			<Zip>85301</Zip>
+		</Address>
+	</Hotel>
+
+
+	<Hotel>
+		<Name>Best Western Plus Chandler</Name>
+		<Phone>480-965-5454</Phone>
+		<Address NearestAirport="Phoenix-Mesa Gateway">
+			<Number>950</Number>
+			<Street>N Arizona Ave</Street>
+			<City>Chandler</City>
+			<State>AZ</State>
+			<Zip>85225</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.8">
+		<Name>Fairmont Scottsdale Princess</Name>
+		<Phone>480-585-4848</Phone>
+		<Address NearestAirport="Phoenix Sky Harbor">
+			<Number>7575</Number>
+			<Street>E Princess Dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Comfort Suites Sedona</Name>
+		<Phone>928-555-8790</Phone>
+		<Address NearestAirport="Flagstaff Pulliam">
+			<Number>245</Number>
+			<Street>North Hwy 89A</Street>
+			<City>Sedona</City>
+			<State>AZ</State>
+			<Zip>86336</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Holiday Inn Express Downtown Tucson</Name>
+		<Phone>520-555-2145</Phone>
+		<Address NearestAirport="Tucson International">
+			<Number>180</Number>
+			<Street>W Congress St</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85701</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
